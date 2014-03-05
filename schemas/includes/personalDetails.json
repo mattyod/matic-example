@@ -27,6 +27,10 @@
     "nickname": {
       "name": "User's preferred salutation",
       "type": "string"
+    },
+    "thing": {
+      "name": null,
+      "description": null
     }
   }
 }
